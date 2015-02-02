@@ -262,7 +262,7 @@ jmolButton("spacefill 23%;wireframe 0.15","ball&stick");'
 				$str .= "Directory path:$dirpath\n";
 				$fileTests = array(
 					'JSmol.min.nojq.js' => "$this->path",
-					'package.js' => "$this->path/j2s/core/"
+					'package.js' => "$this->path"."j2s/core/"
 				);
 				
 				$str .= "test whether various files are readable by wp_remote_fopen\n";
