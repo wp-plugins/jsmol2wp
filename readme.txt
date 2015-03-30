@@ -40,6 +40,10 @@ Jmol documentation can be found at http://jmol.sourceforge.net/#Learn%20to%20use
 2. Applet for a small molecule.
 
 == Changelog ==
+= 1.03 =
+* updated jsmol package from Jmol sourceforge
+* Remove beta from help.htm
+* fix bug where load param was not working
 = 1.02 =
 * fixes to this readme.txt file to improve the display at the wordpress.org plugin repository
 = 1.01 =
